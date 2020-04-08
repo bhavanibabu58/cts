@@ -1,0 +1,288 @@
+html, body {
+	width: 99%;
+	height:95%;
+	background: #000000;
+	margin-left:8px;
+	
+}
+
+.headerblock {
+	height: 20%;
+	width: 100%;
+	
+	font-family:Lucida Handwriting;
+		text-align:center;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:30px;
+}
+
+.bb {
+	height: 100%;
+	width: 100%;
+	text-decoration:none;
+	font-size:17px;
+	background-image:url("/image/frntpg1.jpg");
+	background-size:cover;
+	background-attachment:fixed;
+	margin-top:-180px;
+}
+
+.quote{
+	font-family:Arial;
+	color:#ffff28;
+	font-weight:bold;
+	font-variant:small-caps;
+	font-size:30px;
+	
+}
+
+.quotew{
+	font-family:Arial;
+	color:#ff00ff;
+	font-weight:bold;
+	font-variant:small-caps;
+	font-size:30px;
+	
+}
+.bodyblockw{
+	height:95%;
+	width: 100%;
+	text-decoration:none;
+	font-size:17px;
+	background-color:#dfff00;
+	
+	
+	
+}
+
+.footerblock {
+	height: 4%;
+	width: 100%;
+	background: #ff80c0;
+}
+
+.menuboxf{
+		float:left;
+		background: transparent;	
+		color:white;
+		text-decoration:none;
+		float:right;
+		margin:5px 25px 5px 5px;
+		color:#ffffff;
+		
+		
+	}
+.menuboxf ul li{
+	 border-radius: 15px;
+		display: block;
+		margin:10px 0px 0px 10px;
+		width:200px;
+		height:50px;
+		background: #ff80c0;
+		font-family: pappyrus;
+		text-align: center;
+		padding-top:10px;
+		z-index: 1;
+		color:#ffffff;
+		float:right;
+		font-size:25px;
+	}
+	
+td {
+ 
+  width:100px;
+}
+
+a{
+	color:#ffffff;
+	text-decoration:none;
+}
+.img1{
+	max-width:120%;
+	max-height:120%;
+	float:left;
+	margin-top:-150px;
+	margin-left:80px
+	
+}
+
+.img2{
+	max-width:120%;
+	max-height:120%;
+	float:right;
+	margin-top:-150px;
+	margin-right:80px
+	
+}
+
+.logintable{
+	width:30%;
+	height:50px;
+	margin-left:auto; 
+    margin-right:auto;
+    margin-top:50px;
+    text-align:center; 
+    padding:15px;
+    border-collapse:separate; 
+border-spacing: 0 10px; 
+column-width: 100px;
+border:3px solid white;
+
+
+}
+.logintd{
+	width:50px;
+	font-size:25px;
+	
+}
+
+.logintr{
+	width:50px;
+	rowspan:2;
+	colspan:2;
+	height:50px;
+}
+
+.loginth{
+	width:50px;
+	padding:10px;
+	height:50px;
+}
+.gap{
+		float:right;
+		margin:7px 200px 10px 5px;
+		color:#ffffff;	
+		
+	}
+
+
+.menuboxw{
+		float:left;
+		background: transparent;	
+		color:white;
+		text-decoration:none;
+		float:right;
+		margin:25px 100px 5px 5px;
+		color:#ffffff;
+		padding-bottom:30px;
+		
+		
+		
+	}
+.menuboxw ul li{
+	 border-radius: 15px;
+		display: block;
+		margin:30px 0px 0px 10px;
+		width:200px;
+		height:50px;
+		background: #ff80c0;
+		font-family: pappyrus;
+		text-align: center;
+		padding-top:10px;
+		z-index: 1;
+		color:#ffffff;
+		float:right;
+		font-size:25px;
+		
+	}
+	
+	
+	.headerblockw {
+	height: 10%;
+	width: 100%;
+	
+	font-family:Lucida Handwriting;
+		text-align:center;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:20px;
+}
+
+.bodyblocktf{
+	height:120%;
+	width: 100%;
+	text-decoration:none;
+	font-size:17px;
+	background-color:#dfff00;
+	background-size:cover;	
+}
+.headerblocktf {
+	height: 5%;
+	width: 100%;	
+	font-family:Lucida Handwriting;
+		text-align:center;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:13px;
+}
+
+.bodyblock{
+	height:90%;
+	width: 100%;
+	text-decoration:none;
+	
+	background-color:#bdfb2d;	
+}
+
+.bodyblocklist{
+	height:100%;
+	width: 100%;
+	text-decoration:none;
+	background-color:#ff8080;	
+}
+.listtable{
+	margin-left:auto; 
+    margin-right:auto;
+    text-align:center;
+    font-size:12pt;
+}
+
+.listtd{
+	width:100px;
+	height:1px;	
+}
+
+.listtr{
+	width:70px;	
+	height:0.5px;
+}
+
+.listth{
+	width:70px;
+	padding:5px;
+	height:10px;
+}
+.listtdlast{
+	width:280px;
+	margin-left:10px;	
+}
+.listtdstay{
+	width:200px;	
+}
+.alist{
+	
+	color:#ffffff;
+	text-decoration:none;
+	background-color:black;
+	padding:5px 5px;
+	text-align:center;
+	display:inline-block;
+}
+.bodyblocklog{
+	height:90%;
+	width: 100%;
+	text-decoration:none;
+	
+	background-color:#bdfb2d;	
+}
+.headerblocklog {
+	height: 8%;
+	width: 100%;
+	
+	font-family:Lucida Handwriting;
+		text-align:center;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:18px;
+}
